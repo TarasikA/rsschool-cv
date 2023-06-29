@@ -1,4 +1,5 @@
 # Tarasik Anastasiya
+<img src="https://github.com/TarasikA/rsschool-cv/assets/113368186/69a80fec-df3e-4b2a-a8b2-f1db20b79354" width='300' height='auto' alt='img'/><br/>
 ## Contacts
 Phone: +375296030403
 <br/>
@@ -74,3 +75,6 @@ Sep. 2020 – Present – Belarussian State University<br/>
 Specialization: Mathematic (Scientific and industrial activity)<hr/>
 Sep. 2018 – May.2020 – Lyceum Belarussian State University<br/>
 Specialization: Computer Science and Mathematics
+
+## English
+English Proficiency: B2
